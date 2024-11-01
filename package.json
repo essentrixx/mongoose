@@ -1,0 +1,19 @@
+{
+  "name": "mongoose-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "devStart": "nodemon script.js"
+  },
+  "private": true,
+  "dependencies": {
+    "mongoose": "^8.7.3",
+    "node": "^22.11.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
